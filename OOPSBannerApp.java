@@ -15,7 +15,7 @@
 // and iterating through them with a for-each loop, elimintating hardcoded print
 // statements and improving modularity and reusability.
 
-public class OOPSBannerAppUseCaseFour{    
+public class OOPSBannerApp{    
     // Main method to run the banner display
     public static void main(String[]args){
 	
